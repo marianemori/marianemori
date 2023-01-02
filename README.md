@@ -4,15 +4,15 @@
 import Desenvolvedor from 'mariane-mori';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Mariane Mori Guiradelli';
-  area    = 'Mobile Flutter Developer';
-  trabalho  = 'Grupo Card';
+  nome = 'Mariane Mori Guiradelli';
+  area = 'Mobile Flutter Developer';
+  trabalho = 'Grupo Card';
   local = 'Campo Grande/MS';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Dart, Javascript, Typescript'];
-  bibliotecas  = ['React Native, React'];
+  linguagens = ['Dart, Javascript, Typescript'];
+  bibliotecas = ['React Native, React'];
   frameworks = ['Flutter, NestJs'];
 }
 ```
